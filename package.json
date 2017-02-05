@@ -1,6 +1,6 @@
 {
   "name": "postcss-preset-yoctol",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Yoctol specific configuration for PostCSS",
   "license": "MIT",
   "repository": "Yoctol/postcss-preset-yoctol",
