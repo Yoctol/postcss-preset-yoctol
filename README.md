@@ -18,7 +18,7 @@ $ npm install postcss-preset-yoctol
 
 `postcss.config.js`:
 
-```json
+```js
 module.exports = require('postcss-preset-yoctol');
 ```
 
