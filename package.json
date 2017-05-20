@@ -22,10 +22,10 @@
     "preset"
   ],
   "dependencies": {
-    "autoprefixer": "^6.7.2",
-    "postcss-nested": "^1.0.0",
+    "autoprefixer": "^7.1.1",
+    "postcss-nested": "^2.0.2",
     "postcss-reporter": "^3.0.0",
-    "postcss-simple-vars": "^3.0.0",
+    "postcss-simple-vars": "^4.0.0",
     "stylelint": "^7.8.0"
   },
   "devDependencies": {
