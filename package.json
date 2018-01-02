@@ -23,7 +23,7 @@
   ],
   "dependencies": {
     "autoprefixer": "^7.1.1",
-    "postcss-nested": "^2.0.2",
+    "postcss-nested": "^3.0.0",
     "postcss-reporter": "^3.0.0",
     "postcss-simple-vars": "^4.0.0",
     "stylelint": "^8.1.0"
